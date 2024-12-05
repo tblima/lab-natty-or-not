@@ -13,6 +13,7 @@ Eu fiz o prompt na plataforma Adapta, para geração do texto. E o ElevenLabs, p
 
 ## 🚀 Resultados
 Chat do Prompt na Adapta: https://app.adapta.one/chats/shared/dd6cd53d-95dc-472a-858d-a7ac70dc372c
+
 O áudio está neste repositório.
 
 ## 💭 Reflexão (Opcional)
