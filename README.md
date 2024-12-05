@@ -23,19 +23,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Eu criei um episódio de podcast fictício, contando a história de um homem que passou 6 meses em Marte.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Utilizei a plataforma Adapta, que reúne várias IAs, como GPT-4, Gemini, Claude, Llama, etc.. E também a plataforma ElevenLabs.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Eu fiz o prompt na plataforma Adapta, para geração do texto. E o ElevenLabs, para geração do áudio.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Chat do Prompt na Adapta: https://app.adapta.one/chats/shared/dd6cd53d-95dc-472a-858d-a7ac70dc372c
+O áudio está neste repositório.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Foi muito interessante unir duas soluções de inteligência artificial, isso abre muito o leque de possibilidades de criação.
 ```
 
 ### Exemplos e Insigths
